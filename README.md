@@ -1,6 +1,6 @@
-# swap
+# Currency-Swap
 
-A new Flutter project.
+A new Flutter project for currency conversion.
 
 ## Getting Started
 
